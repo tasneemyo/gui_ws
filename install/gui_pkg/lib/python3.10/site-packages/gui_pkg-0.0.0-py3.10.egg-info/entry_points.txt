@@ -1,4 +1,0 @@
-[console_scripts]
-main = gui_pkg.main_window:main
-sensors = gui_pkg.sensors_pub:main
-
